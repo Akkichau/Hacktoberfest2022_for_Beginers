@@ -30,7 +30,7 @@
 | Anurag Vats | <a href="https://github.com/AnuragVats007">Anurag Vats</a> | <a href="mailto:lit2020007@iiitl.ac.in">E-Mail</a> |
 | Daksh Kesarwani | <a href="https://github.com/InnocentDaksh63">Daksh kesaarwani</a> | <a href="dakshkesarwanijasra@gmail.com">E-Mail</a> |
 
-
+| Akki chaudhary | <a href="https://github.com/Akkichau">Akkichau</a> | <a href="mailto:akki.youto@gmail.com">E-Mail</a> |
 
 
 
