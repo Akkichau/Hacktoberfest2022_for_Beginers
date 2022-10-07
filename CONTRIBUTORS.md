@@ -65,6 +65,7 @@
 | Tharindu Sooriyaarchchi | <a href="https://github.com/TharinduDilshan>Tharindu Sooriyaarchchi</a> | <a href="mailto:tdilshan2010@gmail.com">E-Mail</a> |
 | Samriddh Prasad | <a href="https://github.com/Samriddh2703">Samriddh Prasad</a> | <a href="mailto:samriddh2703@gmail.com">E-Mail</a> |
 | Edgar Gonzalez | <a href="https://github.com/Edgarzerocool">Edgar Gonzalez</a> | <a href="mailto:edgar_gonzalezja@hotmail.com">E-Mail</a> |
+| Akki Chaudhary | <a href="https://github.com/Akkichau">Akkichau</a> | <a href="mailto:sudheerkumar.bijor6398.com">E-Mail</a> |
 
 
 
